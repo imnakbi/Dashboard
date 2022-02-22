@@ -18,9 +18,7 @@ const ELEMENT_DATA: PeriodicElement[] = [
   {id: 5, name: 'Houssem', satisfaction: 10.811, presence: 'oui'},
   {id: 6, name: 'Asma', satisfaction: 12.0107, presence: 'non'},
   {id: 7, name: 'Insaf', satisfaction: 14.0067, presence: 'oui'},
-  {id: 8, name: 'Ahmed', satisfaction: 87.9994, presence: 'oui'},
-  {id: 9, name: 'Imen', satisfaction: 38.9984, presence: 'oui'},
-  {id: 10, name: 'Malek', satisfaction: 20.1797, presence: 'non'},
+  {id: 8, name: 'Ahmed', satisfaction: 87.9994, presence: 'oui'}
 ];
 @Component({
   selector: 'app-dashboard',
