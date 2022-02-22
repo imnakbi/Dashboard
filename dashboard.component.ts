@@ -11,9 +11,9 @@ export interface PeriodicElement {
 }
 
 const ELEMENT_DATA: PeriodicElement[] = [
-  {id: 1, name: 'Mohamed', satisfaction: 51.0079, presence: 'oui'},
-  {id: 2, name: 'Ali', satisfaction: 49.0026, presence: 'non'},
-  {id: 3, name: 'Maryem', satisfaction: 96.941, presence: 'oui'},
+  {id: 1, name: 'Mohamed', satisfaction: 51.0079, presence: 'non'},
+  {id: 2, name: 'Ali', satisfaction: 49.0026, presence: 'oui'},
+  {id: 3, name: 'Maryem', satisfaction: 96.941, presence: 'non'},
   {id: 4, name:'Firas', satisfaction: 29.0122, presence: 'oui'},
   {id: 5, name: 'Houssem', satisfaction: 10.811, presence: 'oui'},
   {id: 6, name: 'Asma', satisfaction: 12.0107, presence: 'non'},
